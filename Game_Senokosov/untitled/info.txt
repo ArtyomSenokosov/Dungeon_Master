@@ -1,0 +1,2 @@
+Il gioco è un'avventura dungeon crawler in cui il giocatore controlla un personaggio in un labirinto generato casualmente.
+L'obiettivo del gioco è sconfiggere i nemici presenti nel labirinto, raccogliere oggetti e raggiungere il livello più profondo possibile.
